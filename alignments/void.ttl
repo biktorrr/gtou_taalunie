@@ -15,7 +15,7 @@ a void:Dataset ;
 		a lib:CloudNode ;
         lib:source gtaa: ;
         dc:title "GTOU alignments " ;
-		dc:description ""GTOU alignments" ;
+		dc:description "GTOU alignments" ;
         owl:versionInfo "0.1" ;
 		void:dataDump
                 <location_links.ttl>,
@@ -23,4 +23,3 @@ a void:Dataset ;
 				<person_links.ttl>,
 				<subject_links.ttl>,
 				<subject_links_onderwerpenbg.ttl>.
-
